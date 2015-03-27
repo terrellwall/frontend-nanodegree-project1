@@ -22,6 +22,11 @@
 	font-size: small;
 }
 
+.img-thumbnail{
+	width: 555;
+	height: 300; 
+}
+
 div h3 {
 	color: #808176;	
 }
