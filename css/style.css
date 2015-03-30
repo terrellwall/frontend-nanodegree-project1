@@ -1,5 +1,5 @@
 * {
-    font-family: "Pontana Sans", sans-serif;
+    font-family: 'Lato', sans-serif;
 } 
 
 .text-light-gray {
@@ -10,21 +10,59 @@
 	color: #808176;		
 }
 
+.text-dark-green {
+	color: #747704;		
+}
+
 .font-weight-light {
 	font-weight: 100;
 }
 
 .font-weight-bold {
-	font-weight: bold;
+	font-weight: 700;
 }
 
-.font-size-small{
+.font-size-small {
 	font-size: small;
 }
 
-.img-thumbnail{
+.img-thumbnail {
 	width: 555px;
 	height: 300px; 
+}
+
+.img-banner {	
+	height: 300px;
+	width:900px;
+}
+
+.img-center {
+	margin:0 auto;
+}
+
+.img-logo {
+	width: 100px;
+	height: 100px; 
+}
+
+hr {
+	background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 1px;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+.logo-padding {
+	padding: 5px;
+}
+
+div div div h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
 }
 
 div h3 {
